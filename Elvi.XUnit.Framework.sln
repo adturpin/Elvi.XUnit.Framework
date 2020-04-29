@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elvi.XUnit.Framework.Runner", "Elvi.XUnit.Framework.Runner\Elvi.XUnit.Framework.Runner.csproj", "{CC00A97E-1FE3-442E-81E1-0C93170004D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elvi.XUnit.Framework.Core", "Elvi.XUnit.Framework.Core\Elvi.XUnit.Framework.Core.csproj", "{1182D28A-B523-4F5A-9650-0E340D0D003C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC00A97E-1FE3-442E-81E1-0C93170004D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC00A97E-1FE3-442E-81E1-0C93170004D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC00A97E-1FE3-442E-81E1-0C93170004D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC00A97E-1FE3-442E-81E1-0C93170004D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1182D28A-B523-4F5A-9650-0E340D0D003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1182D28A-B523-4F5A-9650-0E340D0D003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1182D28A-B523-4F5A-9650-0E340D0D003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1182D28A-B523-4F5A-9650-0E340D0D003C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD591614-7CA9-49CE-A5B3-34EF4C159C00}
+	EndGlobalSection
+EndGlobal
